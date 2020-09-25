@@ -26,3 +26,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [ ] User can select and send an emoji
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
+
+## Executando a aplicação
+### Pré-requisitos
+- É necessário possuir o Node.js e o Expo instalados no computador
+- Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
+### Executando  
+
+
+  #### API
+  ```
+   $ cd server
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a API
+   $ yarn start # ou npm start
+  ```
+  #### Aplicação web
+  ```
+   $ cd web
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a aplicação web
+   $ yarn start # ou npm start
+  ```
