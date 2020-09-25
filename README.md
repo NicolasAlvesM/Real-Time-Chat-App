@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
+* [Ideia] (https://github.com/NicolasMorenoAlves/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md)
 ## User Stories
 -   [X] User can see an `input field` where he can type a new message
 -   [X] By pressing the enter key or by clicking on the `send` button the text will be displayed in the `chat box`.
