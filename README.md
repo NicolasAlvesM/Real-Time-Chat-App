@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## User Stories
 -   [X] User can see an `input field` where he can type a new message
--   [X] User can send a message and all users can see.
+-   [X] By pressing the enter key or by clicking on the `send` button the text will be displayed in the `chat box`.
 -   [ ] User is prompted to enter a username when he visits the chat app. The username will be stored in the application
 -   [ ] By pressing the `enter` key or by clicking on the `send` button the text will be displayed in the `chat box` alongside his username (e.g. `John Doe: Hello World!`)
 
