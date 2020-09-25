@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Executando a aplicação
 ### Pré-requisitos
-- É necessário possuir o Node.js e o Expo instalados no computador
+- É necessário possuir o Node.js instalado no computador
 - Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
 ### Executando  
 
