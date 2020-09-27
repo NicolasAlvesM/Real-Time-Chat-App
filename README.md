@@ -1,4 +1,4 @@
-# Real-Time-Chat-App
+# Real-Time-Chat-App-With-Rooms
 uma aplicação de chat em tempo real feito com React, Node e Socket.io
 
 ## Tecnologias
