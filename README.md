@@ -15,6 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
+## Screenshots
+<img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img1.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img2.png" width="400"/>
+
 ## Executando a aplicação
 ### Pré-requisitos
 - É necessário possuir o Node.js instalado no computador
