@@ -1,6 +1,6 @@
-// import io from 'socket.io-client'
-// const socket=io('http://localhost:3333')
-
-//   export{
-//       submit
-//   }
+import io from 'socket.io-client'
+const socket=io('http://localhost:3333')
+socket.on('connection',msg=>{
+    console.log('Connected')
+});
+export default socket
