@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [CSS](https://www.w3schools.com/css/)
 
 ## Screenshots
-<img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img1.png"/> <img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img2.png"/>
+<img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img1.png"/> <img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/img2.png"/><img src="https://github.com/NicolasMorenoAlves/Real-Time-Chat-App/blob/master/screenshots/Screenshot_20200928-024830_Expo.jpg" height="500px"/>
 
 ## Executando a aplicação
 ### Pré-requisitos
