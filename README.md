@@ -1,6 +1,6 @@
 # Real-Time-Chat-App-With-Rooms
 uma aplicação de chat em tempo real feito com React, Node e Socket.io.
-
+ 
 ## Oque é?
 um projeto de um chat em tempo real, onde o usuário escolhe seu nome de usuário e o nome da sala de chat que deseja entrar, e a conversa ocorre com todos que estão na mesma sala.
 
